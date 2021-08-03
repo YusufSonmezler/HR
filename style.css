@@ -1,0 +1,28 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.menu{
+    width: 15%;
+    height: 100%;
+    background-color: #DDE3DF;
+}
+.logo{
+    margin-top: 15%;
+    width: 40%;
+    margin-left: 25%;
+    margin-bottom: 5%;
+}
+.create-icon{
+    width: 20px;
+    transform: translateY(5px);
+}
+a{
+    text-decoration: none;
+    letter-spacing: 0.2px;
+    font-weight: 560;
+}
+
+h6{
+    letter-spacing: 0.9px;
+}
