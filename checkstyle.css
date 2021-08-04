@@ -7,7 +7,7 @@ body {
 
 .top-content {
     position: relative;
-    padding-top: 100px;
+    padding-top: 80px;
 }
 
 .mid-content {
@@ -17,7 +17,7 @@ body {
 
 p {
     color: #4E5C93;
-    font-size: 22px;
+    font-size: 18px;
     margin: 0.5em auto 0 auto;
 }
 
@@ -37,7 +37,7 @@ p {
 	cursor:pointer;
 	color:#4e5c93;
 	font-size:15px;
-	padding:3px 18px;
+	padding: 5px 18px;
 	text-decoration:none;
 }
 .button:hover {
@@ -47,3 +47,33 @@ p {
 	position:relative;
 	top:1px;
 }
+
+  button{
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  button:after {
+    content: '»';
+    position: absolute;
+    opacity: 0;  
+    right: -5px;
+    transition: 0.5s;
+  }
+  
+  button:hover{
+    padding-right: 24px;
+    padding-left:8px;
+  }
+  
+  button:hover:after {
+    opacity: 1;
+    right: 10px;
+  }
+
+  .check {
+      font-size: 14px;
+      padding-top: 10px;
+  }
