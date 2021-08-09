@@ -84,7 +84,7 @@ p {
   
 /*
 =====
-RESET STYLES
+RESET STYLES FOR FROM INPUT
 =====
 */
 
@@ -112,7 +112,7 @@ RESET STYLES
 
 /*
 =====
-CORE STYLES
+CORE STYLES FOR FROM INPUT
 =====
 */
 
@@ -207,7 +207,7 @@ CORE STYLES
 }
 
 /* 
-effect 1
+effect 1 FOR FROM INPUT
 */
 
 .field_v1 .field__label-wrap::after{
@@ -217,7 +217,7 @@ effect 1
 }
 
 /* 
-effect 2
+effect 2 FOR FROM INPUT
 */
 
 .field_v2 .field__label-wrap{
@@ -237,7 +237,7 @@ effect 2
 }
 
 /*
-effect 3
+effect 3 FOR FROM INPUT
 */
 
 .field_v3 .field__label-wrap::after{
@@ -252,7 +252,7 @@ effect 3
 
 /*
 =====
-LEVEL 4. SETTINGS
+LEVEL 4. SETTINGS FOR FROM INPUT
 =====
 */
 
