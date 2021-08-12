@@ -47,3 +47,30 @@ h6{
 .header:hover{
     background-color: #ecf0f3 !important;
 }
+.first-content{
+    margin-left:auto; 
+    margin-right:auto;
+    width: 800px;
+    height: 800px;
+}
+th,td{
+    padding: 15px;
+
+}
+.dashboard{
+    margin-left: 18%;
+    margin-top: 5%;
+}
+.recruitment{
+    margin-left: 27%;
+    margin-top: 5%;
+}
+.second-content{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    width: 50%;
+    height: 50%;
+    padding: 30px;
+    
+}
